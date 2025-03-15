@@ -643,6 +643,10 @@ footer p {
         font-size: 1.5rem;
     }
 
+    .experience-grid {
+        grid-template-columns: 1fr;
+    }
+
     .projects-grid {
         grid-template-columns: 1fr;
         gap: 30px;
